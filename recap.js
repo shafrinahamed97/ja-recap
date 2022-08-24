@@ -5,5 +5,18 @@
    2-2: getElementsByClassName
    2-3: querySelector
    2- 4: querySelectorAll
-   
+  3. dynamically add element to the dom: document createElement
+   3-5: set the value to the innerHTML
+  4. get and value from/to a dom element
+   4-5: use innerText(h1,p,h5, div, span, strong)
+   4-2: use value (input, textArea)
+  5. add evenet lister (event handler)
+   5-1: click, focus, blur, onchange, keyup
+   5-2: addListener onclick =  "myHandler()"  
+  6. use fucntion to reduce duplicate code
+  7. event deleagatee and event bubble
+
 */
+
+document.querySelectorAll('.users-container .disible ')
+document.querySelectorAll('.my-users li')
